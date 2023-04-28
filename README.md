@@ -1,2 +1,2 @@
-# action-catalog-samples
-A set of sample actions to be used with Instana's Action Catalog
+# action-catalog
+A set of actions (and samples) to be used with Instana's Action Catalog
