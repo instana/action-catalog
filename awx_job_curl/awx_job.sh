@@ -1,4 +1,4 @@
-#bin/bash
+#!/bin/bash
 
 # Script launches an AWX or Ansible Automation Controller job template using curl
 

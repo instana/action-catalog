@@ -1,0 +1,8 @@
+Host: @@instana_api_host@@/api/instana/health
+Method: GET
+Auth type: Api Key
+Key: Authorization
+Value: apiToken @@api_token@@
+Add to: Header
+
+Params: api_token, instana_api_host (default: https://release-instana.instana.rocks)
